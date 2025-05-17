@@ -1,0 +1,9 @@
+Streamlit
+PIL (Pillow)
+OpenCV
+pytesseract
+ultralytics
+rarfile
+yaml
+textblob
+supervision
